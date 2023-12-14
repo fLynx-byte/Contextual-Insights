@@ -45,4 +45,4 @@ Before you proceed with the installation, ensure that you have:
 ## Usage
 After installation and setup, simply highlight text on any webpage. The extension will automatically provide contextual insights in an alert window.
 
-[![Video Thumbnail](URL_of_the_thumbnail_image)](https://www.youtube.com/watch?v=GXyi72xYB2Y)
+[![Video Thumbnail](https://img.youtube.com/vi/GXyi72xYB2Y/maxresdefault.jpg)](https://www.youtube.com/watch?v=GXyi72xYB2Y)
