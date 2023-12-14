@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Extension Popup</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 10px;
+            background-color: #f7f7f7;
+            width: 400px;
+        }
+        h3 {
+            color: #333;
+            margin-bottom: 10px;
+        }
+        .input-group {
+            margin-bottom: 10px;
+        }
+        input[type="password"] {
+            width: calc(100% - 20px); 
+            padding: 8px;
+            margin: 5px 0 20px 0;
+            display: inline-block;
+            border: 1px solid #ccc;
+            box-sizing: border-box;
+            border-radius: 4px;
+        }
+        button {
+            background-color: #4CAF50;
+            color: white;
+            padding: 10px 20px;
+            margin: 8px 0;
+            border: none;
+            cursor: pointer;
+            width: 100%;
+            border-radius: 4px;
+        }
+        button:hover {
+            opacity: 0.8;
+        }
+    </style>
+</head>
+<body>
+  <h3>API Key Configuration</h3>
+  <div class="input-group">
+      <input type="password" id="apiKey" placeholder="Enter OpenAI API Key">
+  </div>
+  <button id="saveApiKey">Save API Key</button>
+  <div id="message"></div> 
+  <script src="popup.js"></script>
+</body>
+</html>
