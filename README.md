@@ -45,4 +45,7 @@ Before you proceed with the installation, ensure that you have:
 ## Usage
 After installation and setup, simply highlight text on any webpage. The extension will automatically provide contextual insights in an alert window.
 
-[![Video Thumbnail](https://img.youtube.com/vi/GXyi72xYB2Y/maxresdefault.jpg)](https://youtu.be/GXyi72xYB2Y)
+https://github.com/fLynx-byte/Contextual-Insights/assets/86211847/0409e449-39f3-468c-8070-19d5983af46f
+
+
+
